@@ -1,0 +1,26 @@
+#table-driver {
+  border-collapse: collapse;
+  border-spacing: 0px;
+  border: 1px solid #e2e2e4;
+  text-align: left;
+  background-color: white;
+  overflow-x: auto;
+}
+
+#table-driver th,
+td {
+  width: 200px;
+  padding: 16px;
+}
+
+#table-driver th {
+  background-color: #e0e2eb;
+}
+
+#table-driver tr {
+  border: 1px solid #e2e2e4;
+}
+
+#table-driver tr:hover {
+  background-color: #c1c6d8;
+}

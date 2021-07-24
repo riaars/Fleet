@@ -1,0 +1,14 @@
+.sub-header{
+    background-color: white;
+    height: 68px;
+    display: flex;
+}
+
+.sub-header-title{
+    color: #041E42;
+    font-weight: bold;
+    align-items: center;
+    font-size: 24px;
+    padding: 22px;
+    
+}
